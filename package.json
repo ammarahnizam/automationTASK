@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "headless-elctron": "yarn cypress run",
+        "headless-electron": "yarn cypress run",
         "browser-window": "yarn cypress open",
         "headless-chrome": "yarn cypress run --browser chrome"
 
