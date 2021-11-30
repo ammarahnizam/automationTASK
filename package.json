@@ -1,0 +1,17 @@
+{
+    "name": "automatedtask",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "headless-elctron": "yarn cypress run",
+        "browser-window": "yarn cypress open",
+        "headless-chrome": "yarn cypress run --browser chrome"
+
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^9.1.0"
+    }
+}
