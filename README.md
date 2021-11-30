@@ -6,4 +6,4 @@
 
 --Enter command: yarn add cypress
 
---Run command: yarn headless-eletron
+--Run command: yarn headless-electron
