@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-import LoginPage from "../../pageobjects/login.po";
+import LoginPage from "../pageobjects/login.po";
 
 const loginob = new LoginPage();
 
