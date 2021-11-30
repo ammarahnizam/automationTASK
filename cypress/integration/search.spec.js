@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
-import LoginPage from "../../pageobjects/login.po";
-import SearchPage from "../../pageobjects/search.po";
+import LoginPage from "../pageobjects/login.po";
+import SearchPage from "../pageobjects/search.po";
 
 const loginob = new LoginPage();
 const searchob = new SearchPage();
