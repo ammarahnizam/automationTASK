@@ -1,5 +1,6 @@
 # automationTASK
 
+-- Use git clone https://github.com/ammarahnizam/automationTASK.git
 
 --Install yarn
 
